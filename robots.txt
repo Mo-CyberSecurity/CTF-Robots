@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /SUPER-SECRET-ROOM
+Allow: /Grac
+Allow: /NE-SUDA
+Allow: /SUDA
+Allow: /TUDA
+Allow: /FLAG
+Allow: /FLAGS
+Allow: /FFLLAAGGSS
+Allow: /PASSWORD
+Allow: /PASSWORDS
+Allow: /777
+Allow: /PASSWORDSADAS
+Allow: /RO
+Allow: /LL
+Allow: /DE
+Allow: /MAYBE-YOU-WANNA-PLAY
